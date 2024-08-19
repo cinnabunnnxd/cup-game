@@ -1,0 +1,15 @@
+C:\Users\Naval\source\repos\cupgame2\cupgame2\bin\Debug\net6.0\cupgame2.exe
+C:\Users\Naval\source\repos\cupgame2\cupgame2\bin\Debug\net6.0\cupgame2.deps.json
+C:\Users\Naval\source\repos\cupgame2\cupgame2\bin\Debug\net6.0\cupgame2.runtimeconfig.json
+C:\Users\Naval\source\repos\cupgame2\cupgame2\bin\Debug\net6.0\cupgame2.dll
+C:\Users\Naval\source\repos\cupgame2\cupgame2\bin\Debug\net6.0\cupgame2.pdb
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.csproj.AssemblyReference.cache
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.AssemblyInfoInputs.cache
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.AssemblyInfo.cs
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.csproj.CoreCompileInputs.cache
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.dll
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\refint\cupgame2.dll
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.pdb
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\cupgame2.genruntimeconfig.cache
+C:\Users\Naval\source\repos\cupgame2\cupgame2\obj\Debug\net6.0\ref\cupgame2.dll
